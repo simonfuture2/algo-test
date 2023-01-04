@@ -20,7 +20,9 @@
 
 [//]: # (  </a>)
 
-<h3 align="center">Algorand React Marketplace</h3>
+<h3 align="center"> FutureBEAT: Blockchain Education Advancement Training </h3>
+<h2 align="center"> Algorand Wallet Connection Test </h2>
+
 
 </div>
 
@@ -38,7 +40,7 @@
 
 1. Clone repo
    ```sh
-   git clone https://github.com/dacadeorg/algorand-react-marketplace.git
+   git clone https://github.com/simonfuture2/algo-test
    ```
 
 2. Install packages
@@ -104,9 +106,9 @@ Distributed under the MIT License. See `LICENSE.txt` for more information.
 
 <!-- CONTACT -->
 
-## :iphone: Contact
+## Contact PSB Advanced Technology
 
-Visit us at - [Dacade](https://dacade.org)
+Visit us at - [FutureBEAT](https://futureself.algo.xyz)
 
 <p align="right">(<a href="#top">back to top</a>)</p>
 
